@@ -2,8 +2,8 @@
 
 ![Selenium](https://img.shields.io/badge/Selenium-4.15.0-green.svg)
 ![Cucumber](https://img.shields.io/badge/Cucumber-7.15.0-brightgreen.svg)
-![TestNG](https://img.shields.io/badge/TestNG-7.8.0-red.svg)
-![Maven](https://img.shields.io/badge/Maven-3.8.1-blue.svg)
+![TestNG](https://img.shields.io/badge/TestNG-7.10.2-red.svg)
+![Maven](https://img.shields.io/badge/Maven-3.9.1-blue.svg)
 
 Framework automation testing untuk web application CURA Healthcare menggunakan Selenium WebDriver, Cucumber BDD, dan TestNG.
 
@@ -11,7 +11,7 @@ Framework automation testing untuk web application CURA Healthcare menggunakan S
 
 Sebelum menjalankan project, pastikan software berikut terinstall:
 
-- **Java JDK 8+** (Recommend JDK 11)
+- **Java JDK 17+** (Recommend JDK 17)
 - **Maven 3.6+**
 - **Browser** (Chrome/Firefox)
 - **Git**
